@@ -17,6 +17,6 @@
 
 ## 运行与部署
 1. 确保已安装 Flutter 环境。
-2. `git clone https://github.com/你的用户名/仓库名.git`
+2. `git clone https://github.com/c1ay33/scavenger-manifest-station.git`
 3. `flutter pub get`
 4. `flutter run`
